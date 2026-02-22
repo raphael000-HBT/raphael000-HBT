@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**raphael000-HBT/raphael000-HBT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, Eu sou o Raphael Henrique 👋
 
-Here are some ideas to get you started:
+#### Seja bem-vindo(a) ao meu perfil!
+🌟 **Entusiasta de tecnologia em transição para o mundo dev!**
+Estou na fase de transformar café em linhas de código e bugs em aprendizado. ☕✨
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Linguagens | ☕** 
+
+![Blog](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)           ![Blog](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)                  ![Blog](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+
+##
